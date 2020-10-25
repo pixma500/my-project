@@ -13,7 +13,7 @@ const Search=({search,val,value}) =>{
             <input
               style={{ width: '60%' }}
               type="text" value={value}
-              placeholder='cat, dog, boy'
+              placeholder='поиск, например :cat, dog, boy'
               onChange={val}
             />
             <Button onClick={search} variant="success">Найти</Button>

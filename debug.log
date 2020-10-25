@@ -1,0 +1,4 @@
+[1022/123233.448:ERROR:file_io.cc(135)] WriteFile: Идет закрытие канала. (0xE8)
+[1022/173933.976:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1023/071414.193:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\РЎРµСЂРіРµР№\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\ece6ee5f-72c2-4822-a57d-9587cac0c0dd: Системе не удается найти указанный путь. (0x3)
+[1023/182955.837:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
